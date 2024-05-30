@@ -55,7 +55,7 @@ Actionable Insights:
 * Use the ICP insights to target similar customers for marketing and sales efforts.
 
 
-**Tableau Analytics**:
+**Tableau Analytics Dashboard Link**:(https://public.tableau.com/views/dataanalysis_17170539854660/Dashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 Conducted Revenue Analysis for the company to generate a variety of insightful visualizations and dashboard from the dataset provided. Here are some potential insights and corresponding visualizations:
 
 1. Gender Distribution:
